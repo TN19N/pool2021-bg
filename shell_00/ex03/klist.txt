@@ -1,0 +1,4 @@
+        Principal: mannouao@1337.MA
+
+  Issued                Expires               Principal
+Aug  4 07:47:40 2021  Aug 11 07:47:40 2021  krbtgt/1337.MA@1337.MA
